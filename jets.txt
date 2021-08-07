@@ -1,0 +1,5 @@
+FighterJet, F-35A Lightning II, 1227.63, 1350, 78000000
+FighterJet, A-10C Thunderbolt II, 420.0, 800, 9800000
+CargoPlane, AC-130J Ghostrider, 416.58, 3000, 165000000
+CargoPlane, C-17 Globemaster III, 517.85, 2400, 202300000
+JetPassenger, C-21 Learjet, 530.0, 2306, 3100000
